@@ -12,6 +12,6 @@
   Fin : 01/04/2022
 
 ## Liens utiles : 
-  Trello : https://trello.com/invite/b/T0KCfQON/1002f7eea5e6e8e66cd5dd0578c05774/tableau-agile
-  Discord : https://discord.gg/ztyuJ7fD
-  Google Drive : https://drive.google.com/drive/folders/1NXIvZrB5XUPSSrzWws6cmw_MPIcwOv3d?usp=sharing
+  - Trello : https://trello.com/invite/b/T0KCfQON/1002f7eea5e6e8e66cd5dd0578c05774/tableau-agile
+  - Discord : https://discord.gg/ztyuJ7fD
+  - Google Drive : https://drive.google.com/drive/folders/1NXIvZrB5XUPSSrzWws6cmw_MPIcwOv3d?usp=sharing
