@@ -1,7 +1,8 @@
-# atelier2
+# atelier numéro 2
 
-### Membres du groupe : 
+## Résumé du projet : 
 
+## Membres du groupe : 
   - Tristan Blot, https://github.com/blot32u
   - Jules François, https://github.com/phorcys-jules
   - Boulet Clément, https://github.com/Boulet-Clement
