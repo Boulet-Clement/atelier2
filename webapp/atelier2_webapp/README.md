@@ -1,35 +1,11 @@
-# atelier2_webapp
+# atelier2_app_mobile
 
-This template should help get you started developing with Vue 3 in Vite.
+Ceci est la partie webapp du projet SALUT 
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+Ce projet est réalisé dans le cadre d'un atelier de LP Ciasie de l'IUT Nancy-Charlemagne.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## Comment lancer le projet et commandes utiles  : 
+- Installer les dépendances avec `npm i` 
+- Lancer le projet avec `npm run dev` 
+- Lancer le linter avec `npm run lint` 
